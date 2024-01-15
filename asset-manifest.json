@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-use-reducer-hook/static/css/main.21cf3ec9.css",
+    "main.js": "/react-use-reducer-hook/static/js/main.94e07090.js",
+    "static/js/787.54fa75e4.chunk.js": "/react-use-reducer-hook/static/js/787.54fa75e4.chunk.js",
+    "index.html": "/react-use-reducer-hook/index.html",
+    "main.21cf3ec9.css.map": "/react-use-reducer-hook/static/css/main.21cf3ec9.css.map",
+    "main.94e07090.js.map": "/react-use-reducer-hook/static/js/main.94e07090.js.map",
+    "787.54fa75e4.chunk.js.map": "/react-use-reducer-hook/static/js/787.54fa75e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21cf3ec9.css",
+    "static/js/main.94e07090.js"
+  ]
+}
